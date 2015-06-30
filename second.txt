@@ -1,0 +1,2 @@
+rewriting This is my second file
+This is third line
